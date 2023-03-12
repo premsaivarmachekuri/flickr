@@ -1,0 +1,103 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+div.bg-image{
+    background-image: url('https://img.freepik.com/premium-photo/winding-river-virgin-forest-valley-against-mountains_76964-970.jpg?size=626&ext=jpg&ga=GA1.2.1070014817.1675015122&semt=sph');
+    background-size: cover;
+    height:100vh;
+    width:100%
+}
+nav{
+    background-color: rgb(22, 21, 21,0.5);
+    position: fixed;
+}
+.logo{
+    width:50px;
+    margin-right: 5px;
+}
+.logo-text{
+    color:#fff;
+    font-size: 2.5rem;
+    font-weight:bold;
+}
+.input-text{
+    height: 35px;
+    border-width: 0px;
+    border-radius:3px;
+    width: 50%;
+}
+input{
+    background-color: none;
+    border-width:0;
+}
+.button1{
+    color:#fff;
+    border: 0;
+    background-color: transparent;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+.button2{
+    color:rgb(3, 3, 3);
+    background-color: #fff;
+    border-width:0;
+    border-radius: 4px;
+    font-size: 1.25rem;
+    font-weight: 500;
+    
+}
+.button3{
+    color:#fff;
+    background-color:transparent;
+    border-color: #fff;
+    border-width:2px;
+    font-size: 1.25rem;
+    font-weight: 500;
+    
+}
+.bg-full{
+    height: 100%;
+}
+.main-text{
+    color:rgb(255, 255, 255);
+    font-size:3.5rem;
+    font-weight: 600;
+}
+.main-para{
+    color:rgb(255, 255, 255);
+    font-size:1.75rem;
+}
+.main-button{
+    color:#333;
+    background-color: #fff;
+    border-width:0;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size:1.75rem;
+    
+}
+p{
+    color:grey;
+}
+i{
+    color:grey;
+    font-size:25px;
+}
+.new{
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    padding:5px;
+    padding-bottom:10px;
+}
+.fa-solid{
+    color:#fff;
+}
+.big{
+    color:grey;
+}
